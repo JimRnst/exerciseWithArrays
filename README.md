@@ -3,7 +3,7 @@
 <h1 align="center">Javascript Array Challenges</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://www.jschallenger.com/" target="_blank">JsChallenger.com</a>.
 </div>
 
 <div align="center">
